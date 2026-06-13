@@ -1,0 +1,5 @@
+def student(*marks):
+    print(sum(marks))
+student(20,80)
+student(20,30,60)
+student(10,80,90)
