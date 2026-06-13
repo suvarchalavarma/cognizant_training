@@ -1,0 +1,5 @@
+name="suvarchala"
+def greet():
+    print("hello",name)
+    
+greet()    
