@@ -1,0 +1,5 @@
+try:
+    file=open("sql.txt","r")
+except FileNotFoundError:
+    print ("file doesn,t exist")
+              
