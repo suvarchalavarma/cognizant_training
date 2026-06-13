@@ -1,0 +1,4 @@
+def multiply(a,b,c=0):
+    return a*b*c
+print(multiply(10,20))
+print(multiply(10,20,30))
