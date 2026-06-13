@@ -1,0 +1,2 @@
+s="i like python"
+print(s.replace("python","java"))
