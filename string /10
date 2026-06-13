@@ -1,0 +1,2 @@
+s="something someone"
+print(s.find ("someone"))
