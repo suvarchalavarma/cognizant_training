@@ -1,0 +1,2 @@
+city="mancherial"
+print(city[1])
